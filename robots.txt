@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://incredible-conkies-e3f773.netlify.app/sitemap.xml
